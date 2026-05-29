@@ -1155,5 +1155,18 @@
     "tx_hash": "0x9764496a29d8afb60f681f93bdd9f1b87fa582233bffc829bf5ebf942cf6fe2b",
     "vault_address": "0x07418C3B6Be7B9beEFD5cE59804d7D76e02809e7",
     "paid_at": "2026-05-29T17:51:49.804Z"
+  },
+  {
+    "entry_number": 90,
+    "github_id": 95500148,
+    "github_login": "0xSyks",
+    "github_avatar": "https://avatars.githubusercontent.com/u/95500148?v=4",
+    "template_title": "Syks Kek",
+    "app_type": "syks-kek",
+    "pr_number": 138,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/138",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
