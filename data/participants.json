@@ -1194,5 +1194,18 @@
     "tx_hash": "0x3c4827548c27841b45630b53d02a8cf2fb68515123cefadc16d3b3a1428f0f04",
     "vault_address": "0xeaB87329Abb807a147B3F470579406e90ccA4D97",
     "paid_at": "2026-05-29T17:59:24.794Z"
+  },
+  {
+    "entry_number": 93,
+    "github_id": 202601338,
+    "github_login": "kuekie211",
+    "github_avatar": "https://avatars.githubusercontent.com/u/202601338?v=4",
+    "template_title": "JW Template",
+    "app_type": "web",
+    "pr_number": 141,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/141",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
