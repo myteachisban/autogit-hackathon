@@ -1230,8 +1230,8 @@
     "app_type": "yuli-hajar",
     "pr_number": 143,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/143",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x478c023df7e835399d4816deaec119257f0d9c445065d8053f1c0b4811d94f23",
+    "vault_address": "0xE20254d2aA468fcB6AAD54a0Df0C823A8468F93E",
+    "paid_at": "2026-05-29T18:04:38.360Z"
   }
 ]
