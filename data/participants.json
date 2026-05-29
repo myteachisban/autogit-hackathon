@@ -1256,8 +1256,8 @@
     "app_type": "weathher-dashboard",
     "pr_number": 146,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/146",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xbbf64065f5bec611082bfedaa445ac1169d018ec28beaff9ca81e11019e57eac",
+    "vault_address": "0xA46f2367Fe1F2b475f365C18F9177426ba22D4Ef",
+    "paid_at": "2026-05-29T18:09:32.705Z"
   }
 ]
