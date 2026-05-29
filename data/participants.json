@@ -1269,8 +1269,8 @@
     "app_type": "ChatBot",
     "pr_number": 147,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/147",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xd24f230d6e3df3e7d5b45436a1f09484f5a48dbe67c3189bd1a78ca49abbc86a",
+    "vault_address": "0x9590d777De28dc2EB5575cdaAA0b2c2A6BABCfD7",
+    "paid_at": "2026-05-29T18:12:44.849Z"
   }
 ]
