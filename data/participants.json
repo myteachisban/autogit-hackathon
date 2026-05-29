@@ -1233,5 +1233,18 @@
     "tx_hash": "0x478c023df7e835399d4816deaec119257f0d9c445065d8053f1c0b4811d94f23",
     "vault_address": "0xE20254d2aA468fcB6AAD54a0Df0C823A8468F93E",
     "paid_at": "2026-05-29T18:04:38.360Z"
+  },
+  {
+    "entry_number": 96,
+    "github_id": 278240244,
+    "github_login": "ganijuy-afk",
+    "github_avatar": "https://avatars.githubusercontent.com/u/278240244?v=4",
+    "template_title": "Gani Juy",
+    "app_type": "gani-juy",
+    "pr_number": 144,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/144",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
