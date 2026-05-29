@@ -1217,8 +1217,8 @@
     "app_type": "cron-builder",
     "pr_number": 142,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/142",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x0acbde78b23b27e79f3931674c1e68610e9ad821544cec2e043b5b218deb8ea5",
+    "vault_address": "0xEa48e2E1c985d67324A684923368f06cB30b0134",
+    "paid_at": "2026-05-29T18:01:36.725Z"
   }
 ]
