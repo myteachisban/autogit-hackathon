@@ -1282,8 +1282,8 @@
     "app_type": "sovereign-sentinel-risk-agent",
     "pr_number": 149,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/149",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xe0c08165246dd6594451f3f2c8186b6115eb47ef21a94ca6553957edea8910ff",
+    "vault_address": "0xC55027d37a5299e6511E20E710D9e78eBD214ff7",
+    "paid_at": "2026-05-29T18:14:40.211Z"
   }
 ]
